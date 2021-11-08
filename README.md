@@ -1,1 +1,1 @@
-# shooting-range
+# ShootingRange
